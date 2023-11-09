@@ -1,0 +1,10 @@
+Package: enigma2-plugin-lib-decfhd
+Version: 0.6-r5
+Description: decfhd skin
+Section: base
+Priority: optional
+Maintainer: 2boom
+License: GPL
+Architecture: all
+OE: enigma2-plugin-lib-decfhd
+Homepage: 4bob@ua.fm
